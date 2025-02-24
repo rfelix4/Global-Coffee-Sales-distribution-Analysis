@@ -33,7 +33,7 @@ This report analyzes a coffee sales dataset to derive insights into sales perfor
 # Data Visualization
 
 
-![]()
+![](https://github.com/rfelix4/Global-Coffee-Sales-distribution-Analysis/blob/main/Screenshot%202025-02-24%20174438.png)
 
 
 
