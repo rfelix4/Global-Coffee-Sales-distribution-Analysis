@@ -36,4 +36,35 @@ This report analyzes a coffee sales dataset to derive insights into sales perfor
 ![](https://github.com/rfelix4/Global-Coffee-Sales-distribution-Analysis/blob/main/Screenshot%202025-02-24%20174438.png)
 
 
+## The following visualizations were created in Power BI:
+
+•	Unit Price by Coffee Type: Bar chart showing uniform pricing across coffee types
+
+•	Revenue by Coffee Type: Column chart showing revenue contribution by coffee type
+
+•	Orders by Country: Bar chart showing the number of orders by country
+
+
+# Insight 
+
+•	Lib coffee is the most profitable, contributing the highest revenue.
+•	The United States is the largest market, followed by Ireland and the United Kingdom.
+•	Uniform pricing across coffee types may not be optimal for maximizing revenue.
+
+
+# Recomendation
+
+1.	Focus on high-performing coffee types like Lib and improve the performance of low-performing types like Ara.
+2.	Expand marketing and distribution efforts in high-demand markets like the United States.
+3.	Conduct a price sensitivity analysis to optimize pricing strategies.
+4.	Leverage customer loyalty programs to retain and attract customers.
+5.	Optimize the supply chain to reduce costs and improve delivery times.
+6.	Consider introducing new coffee types or variants to attract a broader customer base.
+
+
+# Conclusion
+
+The analysis provides valuable insights into the performance of different coffee types and sales across countries. By focusing on high-performing products, optimizing pricing strategies, and expanding in key markets, the business can significantly improve its revenue and profitability. The Power BI visualizations effectively communicate these insights, enabling data-driven decision-making for future growth.
+
+
 
